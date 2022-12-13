@@ -22,9 +22,6 @@ Let us install latest kubectl version for our Lab exercises
 sudo apt-get install kubectl
 ```
 
-For specific versions of kubectl, specify the version as below
-
-sudo apt-get install kubectl=1.17.0-00
 
 Check kubectl version
 ```

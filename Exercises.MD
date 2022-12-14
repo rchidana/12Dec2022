@@ -24,6 +24,7 @@ DaemonSet --> https://kubernetes.io/docs/concepts/workloads/controllers/daemonse
 CronJob --> https://kubernetes.io/docs/tasks/job/automated-tasks-with-cron-jobs/ <br>
 
 Secrets --> https://kubernetes.io/docs/tasks/inject-data-application/distribute-credentials-secure/ <br>
+HPA --> https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale-walkthrough/ <br>
 
 
 DNS Look Up command --> kubectl -n demo run tmp-shell --rm -i --tty --image nicolaka/netshoot -- /bin/bash <br>
